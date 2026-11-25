@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+account ng admin
+*.zip
+desktop.ini
+.vscode/*
+.DS_Store
